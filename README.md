@@ -23,7 +23,7 @@ O objetivo principal do projeto é consolidar conhecimentos em desenvolvimento b
 
 **Acessar a Página**:
    - Back-end: [Repositório Back-end](https://github.com/karinacmartins/instabyte-back-end)
-   - Front-end: [Repositório Front-end](https://github.com/seu-usuario/instabytes-frontend)
+   - Front-end: [Repositório Front-end](https://github.com/karinacmartins/instabyte-front-end)
 
 
 ## 🛠️ Tecnologias Utilizadas 
