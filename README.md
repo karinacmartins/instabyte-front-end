@@ -22,7 +22,7 @@ O objetivo principal do projeto é consolidar conhecimentos em desenvolvimento b
 **InstaBytes** é uma aplicação web que permite aos usuários compartilhar fotos com legendas geradas automaticamente utilizando a API do Google Gemini. O projeto foca no desenvolvimento e integração de um back-end funcional com um front-end pronto, simulando a experiência de uma rede social.
 
 **Acessar a Página**:
-   - Back-end: [Repositório Back-end](https://github.com/seu-usuario/instabytes-backend)
+   - Back-end: [Repositório Back-end](https://github.com/karinacmartins/instabyte-back-end)
    - Front-end: [Repositório Front-end](https://github.com/seu-usuario/instabytes-frontend)
 
 

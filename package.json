@@ -1,8 +1,7 @@
 {
-  "name": "",
+  "name": "instabyte-front-endclear",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
   "license": "AGPL-version-3.0",
   "private": false,
@@ -31,6 +30,7 @@
   },
   "devDependencies": {
     "parcel": "^2.13.0",
-    "serve": "^14.2.4"
+    "serve": "^14.2.4",
+    "svgo": "^3.3.2"
   }
 }
