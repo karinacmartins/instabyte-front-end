@@ -24,7 +24,7 @@
   "contributors": [],
   "scripts": {
     "dev": "npx parcel --port 8000 index.html",
-    "build": "npx parcel build index.html",
+    "build": "npx parcel build index.html --out-dir dist",
     "start": "npx serve dist",
     "test": ""
   },
