@@ -655,10 +655,10 @@ document.addEventListener("DOMContentLoaded", displayImages);
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>fetchImages);
-let API_URL = "https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts";
+const API_URL = "https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts";
 async function fetchImages() {
     try {
-        const response = await fetch("https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts"); // Usando a URL importada
+        const response = await fetch(API_URL); // Usando a URL da variável de ambiente
         const data = await response.json();
         return data;
     } catch (error) {

@@ -71,3 +71,5 @@ Este projeto foi desenvolvido como parte de uma imersão educacional, portanto, 
 <br>
 
 <div align="right">Made with 💜 by <a href="https://github.com/karinacmartins">KM</a>.</div>
+
+

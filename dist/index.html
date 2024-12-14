@@ -1,27 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>InstaBytes</title>
-    <link rel="icon shortcut" type="image/x-icon" href="/byte.08fb8f56.ico">
-    <meta name="description"
-        content="Explore o mundo com Viagem Dev! Veja fotos inspiradoras e histórias de viagens incríveis.">
-    <link rel="stylesheet" href="/index.9947e7a4.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/byte.9f802d6a.ico">
+    <meta name="description" content="Explore o mundo com Viagem Dev! Veja fotos inspiradoras e histórias de viagens incríveis.">
+    <link rel="stylesheet" href="/index.558629d4.css">
 </head>
-
 <body>
     <header>
         <nav class="navbar">
-            <div class="logo"> Insta<strong>bytes</strong> </div>
-            <div class="nav-links"> <button class="login-btn" aria-label="Entrar">Entrar</button> <a href="#"
-                    class="signup-link" aria-label="Cadastre-se">Cadastre-se</a> </div>
+            <div class="logo">
+                Insta<strong>bytes</strong>
+            </div>
+            <div class="nav-links">
+                <button class="login-btn" aria-label="Entrar">Entrar</button>
+                <a href="#" class="signup-link" aria-label="Cadastre-se">Cadastre-se</a>
+            </div>
         </nav>
     </header>
+
     <main class="profile-container">
-        <section class="profile-header"> <img src="/iris.c90e177b.jpg"
-                alt="Foto de perfil de Iris Greenleaf, uma avatar criada por IA" class="profile-pic">
+        <section class="profile-header">
+            <img src="/iris.f8616387.jpg" alt="Foto de perfil de Iris Greenleaf, uma avatar criada por IA" class="profile-pic">
             <div class="profile-info">
                 <h1>@irisgreenleaf</h1>
                 <p>🌟 Fada Guerreira Mística </p>
@@ -29,23 +31,44 @@
                 <p>9 publicações · 952 seguidores · 537 seguindo</p>
             </div>
         </section>
-        <section class="image-grid"> </section>
+
+        <section class="image-grid">
+        </section>
     </main>
-    <div id="modal" class="modal"> <span class="close">x</span> <img class="modal-content" id="modal-img">
+    <div id="modal" class="modal">
+        <span class="close">x</span>
+        <img class="modal-content" id="modal-img">
         <div id="caption"></div>
     </div>
+
+
+    <!-- Rodapé da página -->
     <footer>
         <div class="footer-content">
+            <!-- Texto com direitos autorais -->
             <p>&copy; 2024. KM Todos os direitos reservados.</p>
-            <div class="social"> <span>Made with 🤍</span> <a href="https://www.linkedin.com/in/karinacmartins/"
-                    target="_blank" aria-label="LinkedIn de Karina Martins"> <img src="/linkedin.dcdeeb2f.svg"> </a> <a
-                    href="https://github.com/karinacmartins" target="_blank" aria-label="GitHub de Karina Martins"> <img
-                        src="/github.2172d0c3.svg"> </a> </div>
+            <!-- Contêiner para os ícones de redes sociais -->
+            <div class="social">
+                <!-- Texto indicando que a página foi criada com amor -->
+                <span>Made with 🤍</span>
+                            
+                <!-- Link para o perfil do LinkedIn -->
+                <a href="https://www.linkedin.com/in/karinacmartins/" target="_blank" aria-label="LinkedIn de Karina Martins">
+                    <img src="/linkedin.8cc5e502.svg">
+                </a>
+                <!-- Link para o perfil do GitHub -->
+                <a href="https://github.com/karinacmartins" target="_blank" aria-label="GitHub de Karina Martins">
+                    <img src="/github.24809bef.svg">
+                </a>
+                
+            </div>
         </div>
     </footer>
-    <script src="/index.aaf58ce5.js" type="module"></script>
-    <script src="/index.036228c8.js" nomodule defer></script>
-    <script>console.log(window.api_url);</script>
-</body>
 
+    <script src="/index.a5535e9f.js" defer=""></script>
+    <script>const API_URL = window.api_url; // Pegando a variável injetada no HTML
+console.log(API_URL);
+
+</script>
+</body>
 </html>
