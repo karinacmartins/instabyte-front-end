@@ -7,3 +7,10 @@
 
   [plugins.inputs]
     api_url = "https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+  Access-Control-Allow-Origin = "*"
+  Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+  Access-Control-Allow-Headers = "Content-Type, Authorization"
