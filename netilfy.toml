@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"  # Comando de build, se necessário
-  publish = "public"         # Caminho para a pasta que será publicada
+  publish = "dist"         # Caminho para a pasta que será publicada
 
 [[plugins]]
   package = "@netlify/plugin-environment-variables"
