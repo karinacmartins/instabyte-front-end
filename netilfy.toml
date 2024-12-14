@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"  # Comando de build, se necessário
+  publish = "public"         # Caminho para a pasta que será publicada
+
+[[plugins]]
+  package = "@netlify/plugin-environment-variables"
+
+  [plugins.inputs]
+    api_url = "https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts"
