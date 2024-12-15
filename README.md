@@ -2,8 +2,8 @@
 
 Bem-vindo ao **InstaBytes**, uma aplicação simulando uma rede social de fotos, desenvolvida durante a Imersão de Back-end da Alura.
 
-<img src="assets/images/screenshot.png" alt="Print do Projeto" width="400" />
-<img src="assets/images/screenshot2.png" alt="Print do Projeto" width="400" />
+<img src="assets/images/screenshot.png" alt="Print do Projeto" width="250" />
+<img src="assets/images/screenshot2.png" alt="Print do Projeto" width="250" />
 
 ## Índice
 
