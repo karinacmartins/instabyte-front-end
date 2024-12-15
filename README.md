@@ -2,6 +2,8 @@
 
 Bem-vindo ao **InstaBytes**, uma aplicação simulando uma rede social de fotos, desenvolvida durante a Imersão de Back-end da Alura.
 
+<img src="assets/images/screenshot.png" alt="Print do Projeto" width="400" />
+<img src="assets/images/screenshot2.png" alt="Print do Projeto" width="400" />
 
 ## Índice
 
@@ -24,6 +26,7 @@ O objetivo principal do projeto é consolidar conhecimentos em desenvolvimento b
 **Acessar a Página**:
    - Back-end: [Repositório Back-end](https://github.com/karinacmartins/instabyte-back-end)
    - Front-end: [Repositório Front-end](https://github.com/karinacmartins/instabyte-front-end)
+   - Utilize o arquivo de [Instruções](/instruções.md) para testar localmente.
 
 
 ## 🛠️ Tecnologias Utilizadas 

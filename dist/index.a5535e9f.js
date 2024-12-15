@@ -658,11 +658,7 @@ parcelHelpers.export(exports, "default", ()=>fetchImages);
 const API_URL = "https://instabyte-back-end-262694944609.southamerica-east1.run.app/posts";
 async function fetchImages() {
     try {
-        const response = await fetch(API_URL, {
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
+        const response = await fetch(API_URL); // Usando a URL da variável de ambiente
         const data = await response.json();
         return data;
     } catch (error) {
