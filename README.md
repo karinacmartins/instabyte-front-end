@@ -3,9 +3,14 @@
 Bem-vindo ao **InstaBytes**, uma aplicação simulando uma rede social de fotos, desenvolvida durante a Imersão de Back-end da Alura.
 
 <p align="center">
-  <img src="assets/images/screenshot.png" alt="Print do Projeto" width="250" />
-  <img src="assets/images/screenshot2.png" alt="Print do Projeto" width="250" />
+  <a href="https://instabyte-frontend.netlify.app/" target="_blank">
+    <img src="assets/images/screenshot.png" alt="Print do Projeto" width="250" />
+  </a>
+  <a href="https://instabyte-frontend.netlify.app/" target="_blank">
+    <img src="assets/images/screenshot2.png" alt="Print do Projeto" width="250" />
+  </a>
 </p>
+
 
 ## Índice
 
